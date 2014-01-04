@@ -1,4 +1,17 @@
 # compiled source #
 *.o
 *.out
+
+# windows
+Debug/*
+Release/*
 *.exe
+*.ncb
+*.suo
+
+*.ilk
+*.pdb
+*.user
+*.obj
+*.idb
+*.dep
