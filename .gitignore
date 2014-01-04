@@ -3,8 +3,6 @@
 *.out
 
 # windows
-Debug/*
-Release/*
 *.exe
 *.ncb
 *.suo
@@ -15,3 +13,6 @@ Release/*
 *.obj
 *.idb
 *.dep
+
+*.manifest
+*.res

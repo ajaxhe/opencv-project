@@ -1,0 +1,10 @@
+./Debug/blobtrack_sample.exe fg_name=FG_0 bd_name=BD_CC bt_name=MS btpp_name=None btgen_name=RawTracks bta=HistP bta_data=bta_data_out track=track_out btavi=bt_out.avi fgavi=fg_out.avi scale=2.0 ../source.avi
+
+H:/Program/github/opencv-project/blobtrack_sample/blobtrack_sample/Debug/blobtrack_sample.exe fg_name=FG_0S fgavi=fg_out.avi G:/TDDOWNLOAD/PETS2000/test.avi
+
+./Debug/blobtrack_sample.exe fg_name=FG_1 fg:morphology=0 fgavi=fg_out.avi H:/FileSample/VideoAnalysis/pets/pets2001/cif_camera1.avi
+
+
+H:/FileSample/VideoAnalysis/source.avi
+
+./Release/eagle_eye.exe fgavi=fg_out.avi inputavi=H:/FileSample/VideoAnalysis/pets/pets2001/cif_camera1.avi
